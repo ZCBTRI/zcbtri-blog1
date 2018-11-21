@@ -1,2 +1,2 @@
-# blog1
-test for blog
+# blog
+从wp迁移博客。
