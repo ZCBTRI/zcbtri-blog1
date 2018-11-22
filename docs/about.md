@@ -1,26 +1,18 @@
 ---
 layout: page
-title: 关于络谱
-permalink: /关于络谱/
+title: About
+permalink: /about/
 ---
-[络谱官网](https://www.brop.cn/)
-[快速访问浏览器](https://browser.brop.cn/)
 
-## 络谱如何构建可信协作？
-络谱区块链登记开放平台（BROP）是中钞区块链技术研究院基于自主知识产权研发的区块链登记开放平台。
-致力于基于区块链技术，建立数字身份、可信数据、数字凭证，实现可信协作。
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-![](/assets/about/iden1.png)
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-## 数字身份
-数字身份是区块链上数字行为的主体。络谱的数字身份基于区块链实现唯一性，仅受到用户个人控制。实现自主性，数字行为无须中心化机构授权。并兼容X.509标准CA证书和其他KYC认证的网络身份，关联数字身份与真实身份关系，实现数字行为真实可追溯。
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-![](/assets/about/iden2.png)
 
-## 可信数据
-将电子数据以摘要值等形式存证到区块链上。基于区块链保障数据的不可篡改，提供完整性证明；颁发可信时间戳，提供时间证明；信息关联功能，提供数据间关系证明；支持多种格式文件存证，支持数据来源可追溯，支持隐私保护，并对监管友好。
-
-![](/assets/about/iden3.png)
-
-## 数字凭证
-数字凭证是以数字化存在以区块链共识确权的权属凭证。络谱提供基于区块链的数字凭证注册、分配、转移、监管的完整方案。实现数字凭证的易用、防伪、易流通、可追溯，并设置监管机制，实现监管合规。
+[jekyll-organization]: https://github.com/jekyll
